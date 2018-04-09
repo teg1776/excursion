@@ -5,8 +5,29 @@ h1 {
   color: white;
   text-align: center;
 }
-h2, a {
-  text-align: center;
+a {
   color: aquamarine;
   font-size: 16px;
+  font-weight: normal;
+}
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+#guide, #announcement {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+#summary {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+#copyright {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
 }
